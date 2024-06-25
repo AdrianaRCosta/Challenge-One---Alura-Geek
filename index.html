@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AluraGeek</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="estilo/styles.css">
+
+        
+    </head>
+
+
+    <body>
+        <header>
+            <div class="container"> 
+                <div class="logo">
+                    <img src="img/Logo.png" alt="logo">
+                </div>
+            </div>
+        </header>
+          
+
+        <main class="main">
+            <section class="cabecalho">
+                <div class="titulo">
+                    <h1 class="titulo-principal">MEUS PRODUTOS:</h1>
+                        <ul data-produtos class="container-produtos" data-lista>
+                                <!-- Produtos adicionados aqui -->
+                        </ul>
+                </div>  
+            </section>
+      
+        
+            <div id="sidebar">
+                <div class="add-product-form">
+                    <h2>Adicionar Produto:</h2>
+                    <form method="post" enctype="data-formulario" id="data-formulario">
+                        <input name="nome" class="campo__escrita" placeholder="nome..." required data-nome/>
+                        <input name="valor" class="campo__escrita" placeholder="valor..." required data-preco/>
+                        <input name="imagem" class="campo__escrita" placeholder="Imagem..." required data-imagem/>
+                        <div class="form-buttons">
+                            <button id="azul" type="submit">Guardar</button>
+                            <button id="cinza" type="reset">Limpar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </main>
+        
+        <section class="rodape">
+            <div class="footer__rodape">
+                <img src="img/Logo.png" alt="logo">
+                <p>Desenvolvido por Adriana Dos Reis</p>
+                <p>Todos os direitos reservados - © 2024.</p>
+            </div>
+        </section>
+
+        <script src="js/mostrarProdutos.js" type="module"></script>
+        <script src="js/criarProduto.js" type="module"></script>
+        
+    </body>
+</html>

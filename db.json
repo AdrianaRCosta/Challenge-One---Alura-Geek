@@ -1,0 +1,76 @@
+{
+  "Produtos": [
+    {
+      "id": "1",
+      "nome": "Game Boy",
+      "preco": "150,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc6SR5mzkbEeD_miPsxpbpu1A2GObhPCF0ng&s"
+    },
+    {
+      "id": "2",
+      "nome": "Caneca Stormtrooper",
+      "preco": "49,00",
+      "imagem": "https://img.elo7.com.br/product/zoom/3228DE1/caneca-3d-star-wars-stormtrooper-presente-star-wars.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Boneco Goku",
+      "preco": "500,00",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_795805-MLB54844686458_042023-O.webp"
+    },
+    {
+      "id": "4",
+      "nome": "Boneco R2-D2",
+      "preco": "230,00",
+      "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwsfcuU_qKpHrKRiayTPrnWW52PRY1eNZasMl1TlRboRDhoE2-zUQM5brd9caW65IXDos3RU9XYNVM8WOs72auapodMKDw77dJKb7SHqzupbFsFk4P2vDL9g&usqp=CAE"
+    },
+    {
+      "id": "5",
+      "nome": "Chaveiro Mario",
+      "preco": "39,90",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSSIZeuLJFrFD0pgGDMCGuN_8yABH7cULvoA&s"
+    },
+    {
+      "id": "6",
+      "nome": "Luminaria Harry Potter",
+      "preco": "79,90",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/460977/luminaria_abajur_led_harry_potter_uniforme_grifinoria_harry_potter_18cm_mkp_121077_1_f2efa241d3225be41f1d1a21ce669c0d.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Camisa Goku",
+      "preco": "200,00",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/460977/camiseta_feminina_goku_na_nuvem_voadora_dragon_ball_63171_1_20201211175305.jpg"
+    },
+    {
+      "id": "8",
+      "nome": "Luminaria Darth Vader",
+      "preco": "90,00",
+      "imagem": "https://images-americanas.b2w.io/produtos/7276245404/imagens/luminaria-mesa-de-led-3d-darth-vader-star-wars-abajur/7276245421_1_large.jpg"
+    },
+    {
+      "id": "7ec5",
+      "nome": "Camisa Grifinória",
+      "preco": "90,00",
+      "imagem": "https://66703.cdn.simplo7.net/static/66703/sku/camisetas-camiseta-harry-potter-casa-de-grifinoria-clube-comix--p-1633026501660.jpg"
+    },
+    {
+      "id": "6264",
+      "nome": "Camisa Lufa Lufa",
+      "preco": "90,00",
+      "imagem": "https://66703.cdn.simplo7.net/static/66703/sku/camisetas-camiseta-harry-potter-casa-de-lufa-lufa-algodao--p-1634265763508.jpg"
+    },
+    {
+      "id": "9715",
+      "nome": "Camisa Corvinal",
+      "preco": "90,00",
+      "imagem": "https://a-static.mlcdn.com.br/450x450/camiseta-harry-potter-corvinal-masculina-e-feminina-100-algodao-primeira-linha-gola-redonda-wintershop/luanebrunorodrigues/70f66802549011edbc1a4201ac185019/3da9984e65d63f1ddb48afa254504323.jpeg"
+    },
+    {
+      "id": "8a3f",
+      "nome": "Camisa Sonserina",
+      "preco": "90,00",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSQwGQsYTQRbRd-in-QQ0Qbbv8AuM2ohlkw&s"
+    }
+  ]
+}
